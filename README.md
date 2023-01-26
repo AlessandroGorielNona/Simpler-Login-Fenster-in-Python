@@ -15,4 +15,4 @@ Dokumentation zum Code
 10. Erstellen einer Tkinter-Oberfläche und Platzieren von Label und Entry-Feldern für Benutzernamen und Passwort sowie Buttons zum Registrieren und Anmelden.
 
 Hinweis:
-ieser Code dient nur zu schulischen zwecken.
+Dieser Code dient nur zu schulischen zwecken.
