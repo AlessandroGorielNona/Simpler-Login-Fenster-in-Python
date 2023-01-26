@@ -1,7 +1,7 @@
 # Simpler-Login-Fenster-in-Python
 Dieser Code erstellt eine Benutzeroberfläche mit Tkinter, einer Python-Bibliothek zur Erstellung von grafischen Benutzeroberflächen. Es ermöglicht es dem Benutzer, sich zu registrieren und anzumelden. Die registrierten Benutzerdaten werden in einer JSON-Datei gespeichert und das Passwort wird gehasht, bevor es gespeichert wird, um die Sicherheit zu erhöhen.
 
-#Dokumentation zum Code
+Dokumentation zum Code
 
 1. Importieren der erforderlichen Bibliotheken: tkinter, json und hashlib.
 2. Erstellen einer Funktion "register()", die die Eingaben des Benutzers für den Benutzernamen und das Passwort erhält.
